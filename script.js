@@ -3,7 +3,7 @@ const { NFTStorage, Blob } = require('nft.storage');
 const fs = require('fs');
 
 // (1)
-const client = new NFTStorage({ token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGE0N0FjNzk1MjFGMGJlZTQ5QjA1ZWE1NDYyMmIzMzM0MjEyMjY5QzkiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTYzMjc4MTkwMjgzOSwibmFtZSI6IkVuZXMifQ.xyej5LpnhCId_kK4Ss_d0EGlf0bFX2Av6wFlhL1MbDI" });
+const client = new NFTStorage({ token: "your-api-key" });
 
 async function main() {
     // (2)
