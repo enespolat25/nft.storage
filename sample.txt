@@ -1,0 +1,6 @@
+This is a sample text from Enes Polat.
+Date is:28 September 2021
+Hello World 
+
+I love coding
+
