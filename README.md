@@ -3,6 +3,8 @@
 
 ### Çalıştırmak için
 ```
+npm install nft.storage
+
 node script.js
 ```
 
