@@ -3,6 +3,10 @@
 
 ### Çalıştırmak için
 ```
+git clone https://github.com/enespolat25/nft.storage.git
+
+cd nft.storage 
+
 npm install nft.storage
 
 node script.js
