@@ -1,6 +1,6 @@
 # nft.storage
 ## Sample nft project using node, nft.storage
-
+Bu projede nft.storage npm paketiyle IPFS'e NFT'lerin kaydedilmesi uygulaması gerçekleştirilmiştir.
 ### Çalıştırmak için
 ```
 git clone https://github.com/enespolat25/nft.storage.git
